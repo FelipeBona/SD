@@ -1,0 +1,23 @@
+Enviar as respostas para o email jcgross@furb.br até 20/08/2023.
+
+1) Pesquise e explique o funcionamento dos algoritmos de eleição:
+	a) Valentão (Bully)
+	b) Anel lógico
+
+2) Qual a diferença existente entre sistemas fortemente acoplados e sistemas fracamente acoplados?
+
+3) Indique pelo menos 3 aplicações de sistemas paralelos.
+
+4) Aula passada vimos o funcionamento de clusters com discos compartilhados (RAID). O que é RAID, e quais os tipos existentes?
+
+5) Qual a diferença entre intranet e internet?
+
+6) Pra que serve um middleware em um sistema distribuído e quais as principais necessidades inerentes ao seu uso quando se desenvolve um sistema distribuído?
+
+7) Na aula de hoje vimos sobre computação móvel mas não abordamos IoT especificamente como um sistema embarcado e/ou distribuído. Cite pelo menos 3 utilidades diferentes das trazidas em aula.
+
+8) O uso de checksums em pacotes de redes, como visto durante a aula de hoje, pode auxiliar a identificar alterações em pacotes de redes. Como utilizar checksums para identificar alterações indevidas em registros de uma tabela crítica em um banco de dados?
+
+9) A ANSA e a ISO definem 8 formas de transparência de um sistema distribuído, contudo nos foram apresentadas apenas 7 destas. Qual é a oitava, que faltou abordar?
+
+10) Por que, quando se pensa em computação em nuvem, praticamente todos os itens inerentes à transparência de um sistema distribuído se fazem presentes? Comente cada uma delas.
